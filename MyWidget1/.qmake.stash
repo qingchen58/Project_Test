@@ -1,0 +1,12 @@
+QMAKE_DEFAULT_INCDIRS = \
+    D:/Complier/QT/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include \
+    D:/Complier/QT/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed \
+    D:/Complier/QT/Tools/mingw530_32/i686-w64-mingw32/include \
+    D:/Complier/QT/Tools/mingw530_32/i686-w64-mingw32/include/c++ \
+    D:/Complier/QT/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    D:/Complier/QT/Tools/mingw530_32/i686-w64-mingw32/include/c++/backward
+QMAKE_DEFAULT_LIBDIRS = \
+    D:/Complier/QT/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0 \
+    D:/Complier/QT/Tools/mingw530_32/lib/gcc \
+    D:/Complier/QT/Tools/mingw530_32/i686-w64-mingw32/lib \
+    D:/Complier/QT/Tools/mingw530_32/lib
