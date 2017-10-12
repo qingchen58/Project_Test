@@ -16,6 +16,8 @@ public:
     ~MainWindow();
 
 private:
+    void Init();
+private:
     Ui::MainWindow *ui;
 };
 
