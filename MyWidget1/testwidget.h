@@ -15,6 +15,7 @@ signals:
 public slots:
 private:
     QLabel * m_title;
+    QLabel * m_content;
 };
 
 #endif // TESTWIDGET_H
