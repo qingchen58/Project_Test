@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include <QLabel>
+#include <QDebug>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -9,5 +10,5 @@ MainWindow::MainWindow(QWidget *parent)
 
 MainWindow::~MainWindow()
 {
-
+    qDebug()<<"注销MainWindow";
 }
